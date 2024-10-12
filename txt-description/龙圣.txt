@@ -1,0 +1,1 @@
+Dragon Master 是一款 2D 格斗游戏，您可以控制来自全球各地的八名战士中的一名，参加格斗锦标赛。可供选择的战士有男性K. Garcia、Dark Man、老人B. Dosa、Jackie、Jedi Ryan和Joey。女战士是 Gloria 和 Deliza，每个战士都有自己的战斗技巧，包括踢、拳和特殊攻击。战斗是三局两胜制。击败可玩战士后，必须击败三个不可玩的 Boss 角色。它们是：Dynamo、Mozard 和 Garner。关卡中有破坏物体的加分小游戏。

@@ -1,0 +1,3 @@
+Original `*.metadata.txt` come from downloadable content of [天马G PC+安卓双平台 精简Rom整合包 + 8大主题功能演示教程 (Video)](https://www.bilibili.com/video/BV1vg4y1V7TB).
+
+There are about 20 games I want to play with family and friends on Spring Festival. So I just did a preliminary partial formatting. Refer to [ROM suffixes](https://gamicus.fandom.com/wiki/ROM_suffixes). There are no next steps planned, currently (at present).

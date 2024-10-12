@@ -1,0 +1,50 @@
+整体修改/Remix Ultra 3.5
+
+程序: =K3=Jason, Wesker, Raymonose, Andy Chan, Macro Chen, Eddids, Danpaji1, sjx
+
+版本: 3.5 R1
+
+------------
+NEWS:
+
+ 1. Benimaru 隐杀的攻击力恢复02原始攻击力。平衡性UP
+ 2. Mary AA6BC/AA4BC改为2626B/2626BD。实用性UP
+ 3. Kyo 大蛇稚速度适应减慢。平衡性UP
+ 4. Kula 24A，6B恢复为原版24B、6B。连技性UP
+ 5. Kyo 恢复2.5版本荒咬和九伤可以SC。连技性UP
+ 6. Kula Max超杀624624AC改成KOFXI的效果，跟据不同的距离杀伤力不同。实用性、平衡性UP
+ 7. Mary 24A之后的26A可以输入指令6246A直接发出指令投，且24A26A与6246A并存。原创性UP
+ 8. Rugal 623B修正为KOF98的性能。平衡性UP
+ 9. Shermie ABC闪加强无敌判定。原版02效果是7桢动作前3桢无敌，修改为前4桢无敌。实用性UP
+10. Shermie 6246C伤害少许提升。实用性UP
+11. Seth 624B还原成第2HIT手按，SC仍然有效。自由性UP
+12. Iori 2626A启动加快，可2B，2A，2626A或屑风后2626A  实用性UP
+13. R.Chris 隐杀调整: 
+         a·起式全身无敌 (除投技)，可用来对空。
+         b·出COUNTER对手会被弹墙，打满后面的HIT。
+         c·近身发动对手防御会破防，受第一下攻击。远程击中效果同原版效果。原创性UP
+14. Kensou 24C同98。可以D接24C的出招速度。实用性UP
+15. Chang 隐杀等待时间由3秒减为2秒。实用性UP
+16. 克拉克的624A加快收招速度。可以用做C的一次CANCEL。经典代表连技C，624A，C，426D。原创性UP
+17. Kula Max超杀2626BD改为2626B/D，只费1个Power。原创性UP
+18. Chin 隐杀增加攻击力。平衡性UP (以前太少太弱)
+19. Lenoa Max V、普通V、耳环的攻击力减弱。平衡性UP
+20. Choi Max超杀2624BD的血量减弱。平衡性UP
+21. Kim Max空中246BD的血量减弱。平衡性UP
+22. Robert 646B/D指令改为624B/D。
+23. Clark 添加格林机炮拳，4蓄6+A/C。同kof2000、2001。实用性UP
+24. K' Max2624+AC收招同2003。
+25. Iori 暗削轻出加快，可以2b2a接，重出有无敌时间。实用性UP
+26. Shermie Max624624+AC同98，不可拆投，实现one two three。
+27. 真Chris 地波颜色修正。
+28. Kusanagi 取消琴月阳SuperCancel。
+29. Yashiro 426+AC再26c收招速度同以前。
+30. Yashiro、Shermie、Chris 隐藏超杀变身后攻击力增加1.2倍
+31. Lenoa 变身后攻击力增加1.2倍
+32. Whip 421+a/c开局可7发。
+33. 还原Max2背景光速蓝颜色。
+
+------------
+修改内容变化
+
+ 1.

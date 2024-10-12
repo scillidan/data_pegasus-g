@@ -1,0 +1,1 @@
+Land Sea Air Squad 是一款 2D 俯视角射击游戏，具有与《怒》 Ikari Warriors 类似的游戏玩法。与在怒中一样，玩家可以控制车辆 - 坦克、直升机和船只。角色有一把无限弹药和手榴弹的枪。在每一关结束时，玩家必须击败一辆全副武装的车辆。Land Sea Air Squad 在日本也被称为“Riku Kai Kuu Saizensen”。

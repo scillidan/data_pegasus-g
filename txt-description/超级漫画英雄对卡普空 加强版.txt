@@ -1,0 +1,676 @@
+LP：轻拳；MP：中拳；HP：重拳
+
+LK：轻脚；MK：中脚；HK：重脚
+
+疾进/疾退：→→ / ←←; 或 n/← + PPP
+高跳：地面时 ↓↑; 或 KKK
+空中防御：空中 ← 方向
+援助：MP+MK，可用次数依援助角色而定。
+交换：HP+HK，换下的角色体力红色部分会逐渐回复。
+交换反击：防御时 ←↙↓ + HP+HK，消耗一条能量。
+超必杀技
+至少消耗1条能量发动无限必杀技。
+
+能量至少2条时 ↓↙← + HP+HK 发动交叉攻击，能量槽会变为时间槽，期间可自由使用无限必杀技。
+
+能量至少2条时 ↓↘→ + HP+HK，消耗2条能量发动合体超必杀技。
+========================================================================
+蜘蛛侠Spider-Man
+
+普通投
+-       近身 →/← + MP
+-       近身 →/← + HP
+-       空中近身 →/← + MP/HP
+特殊技
+Wall Jump       空中画面端 → 方向
+空中 Dash       空中 →→; 或 PPP
+Juggles       MP
+Juggles       蹲 MK, HK
+必杀技
+Web Ball       ↓↘→ + P (空中可)
+Spider Sting       →↓↘ + P, 顶点附近 P
+Web Throw       →↘↓↙← + P, 转方向
+Web Swing       ↓↙← + K (空中可)
+无限必杀技
+Maximum Spider       ↓↘→ + PP (空中可)
+Ultimate Wave Throw       ↓↙← + PP
+Crawler Assault       ↓↘→ + KK
+========================================================================
+美国队长Captain America
+
+普通投
+-       近身 →/← + MP/HP
+-       近身 →/← + MK/HK
+-       空中近身 →/← + MP/HP
+特殊技
+2段 Jump       跳跃中 ↑ 方向
+Combination       MK, MK
+Anti Cloud Kick       空中 ↓ + HK
+Cartwheel       →↘↓↙← + P
+Juggles       蹲 HP
+必杀技
+Shield Slash       ↓↘→ + P (空中可)
+Star & Stripes       →↓↘ + P
+Charging Star       ↓↘→ + K
+无限必杀技
+Final Justice       ↓↘→ + PP
+Hyper Star & Stripes       →↓↘ + PP
+Hyper Charging Star       ↓↘→ + KK
+========================================================================
+毒液Venom
+
+普通投
+-       近身 →/← + MP/HP
+-       近身 →/← + MK/HK
+-       空中近身 →/← + MP/HP
+特殊技
+空中 Dash       空中 →→; 或 PPP
+Juggles       MP
+必杀技
+Venom Fang       ↓↘→ + P (空中可)
+Web Throw       →↘↓↙← + P, ←→ + P/K 连打
+Venom Rush       ↓↘→ + K
+无限必杀技
+Venom Web       ↓↘→ + PP
+Death Bite       ↓↘→ + KK
+========================================================================
+浩克Hulk
+
+普通投
+-       近身 →/← + MP/HP
+-       空中近身 →/← + MP/HP
+特殊技
+Gamma Resistance       自动受身
+Juggles       蹲 HP
+必杀技
+Gamma Slam       ↓↘→ + P
+Gamma Tornado       →↘↓↙← + P
+Gamma Charge       ← 蓄 → + K, 任意方向/n + K
+Vertical Gamma Charge       ↓ 蓄 ↑ + K, 任意方向/n + K
+无限必杀技
+Gamma Crush       ↓↙← + PP
+Gamma Wave       ↓↘→ + PP
+Gamma Quake       ↓↘→ + KK
+========================================================================
+牌皇Gambit
+
+普通投
+-       近身 →/← + MP/HP
+-       近身 →/← + MK/HK
+-       空中近身 →/← + MK/HK
+特殊技
+Juggles       蹲 HP
+必杀技
+Kinetic Card       ↓↘→ + P (空中可)
+Trick Card       ↓↙← + P
+Cajun Slash       →↓↘ + P
+Cajun Escape       ↓ 蓄 ↑ + P, P
+Cajun Strike       ↓ 蓄 ↑ + K
+无限必杀技
+Royal Flush       ↓↘→ + PP
+Cajun Explosion (前方)       ↓↘→ + KK
+Cajun Explosion (後方)       ↓↙← + KK
+========================================================================
+战争机器War Machine
+
+普通投
+-       近身 →/← + MP/HP
+-       近身 →/← + MK/HK
+-       空中近身 →/← + MP/HP
+特殊技
+空中 Dash       空中 任意方向/n + PPP
+Combination       LP, LP
+Missile Launch       ↓ + HP
+Laser Blast       空中 ↑/↓ + HP
+Knee Dive       空中 ↓ + MK
+Upward Kick       空中 ↑ + HK
+Flight       ↓↙← + K (空中可), 再输入落地
+Juggles       HK
+必杀技
+Shoulder Cannon (上段)       ↓↘→ + P (空中可)
+Shoulder Cannon (下段)       ↓↘→ + K
+Repulsor Blast       →↘↓↙← + P
+Smart Bomb       MP+LK (空中可)
+无限必杀技
+Proton Cannon       ↓↘→ + PP
+War Destroyer       ↓↘→ + KK
+========================================================================
+金刚狼Wolverine
+
+普通投
+Shoulder Mount Adamantium Hell       近身 →/← + MP
+Ground Mount Adamantium Hell       近身 →/← + HP
+Aerial Shoulder Mount Adamantium Hell       空中近身 →/← + MP/HP
+特殊技
+Triangle Jump       空中画面端 → 方向
+Double Claw       MP, MP
+Knee Kick       MK, MK
+Sliding Claw       ↘ + HP
+Diving Kick       空中 ↓ + HK
+Juggles       HK
+必杀技
+Berserker Barge       ↓↘→ + P, P 连打
+Tornado Claw       →↓↘ + P, P 连打
+Berserker Slash       ↓↙← + P
+Drill Claw       方向/n + MP+LK (空中可)
+无限必杀技
+Berserker Barge EX       ↓↘→ + PP
+Berserker Charge       ↓↙← + PP
+Weapon X       →↓↘ + PP
+Fatal Claw       →↓↘ + KK (空中可)
+========================================================================
+隆Ryu
+
+普通投
+背負い投げ       近身 →/← + MP/HP
+巴投げ       近身 →/← + MK/HK
+空中巴投げ       空中近身 →/← + MP/HP
+特殊技
+鎖骨割り       → + MP
+旋風脚       → + MK
+空中 ↑ 方向 + HK
+前蹴り       空中 ↑ 方向 + MK
+Juggles       蹲 HP
+必杀技
+波動拳       ↓↘→ + P (空中可)
+昇竜拳       →↓↘ + P
+竜巻旋風脚       ↓↙← + K (空中可)
+无限必杀技
+真空波動拳       ↓↘→ + PP (空中可), P/K 连打
+真·昇竜拳       →↓↘ + PP
+真空竜巻旋風脚       ↓↙← + KK
+Change Mode: Ken       →↘↓↙← + MP ~ 肯 Ken Masters
+Change Mode: Gouki       →↘↓↙← + HP ~ 豪鬼 Gouki (Akuma)
+========================================================================
+肯 Ken Masters
+普通投
+地獄車       近身 →/← + MP/HP
+つかみひざ蹴り       近身 →/← + MK/HK, P/K 连打
+空中地獄車       空中近身 →/← + MP/HP
+特殊技
+稲妻かかと割り       → + MK
+旋風脚       空中 ↑ 方向 + HK
+前蹴り       空中 ↑ 方向 + MK
+Juggles       蹲 HP
+必杀技
+波動拳       ↓↘→ + P (空中可)
+昇竜拳       →↓↘ + P (空中可)
+竜巻旋風脚       ↓↙← + K (空中可)
+无限必杀技
+昇竜裂破       ↓↘→ + PP
+神龍拳       ↓↘→ + KK, P/K 连打
+疾風迅雷脚       ↓↙← + KK
+Change Mode: Ryu       →↘↓↙← + LP ~ 隆 Ryu
+Change Mode: Gouki       →↘↓↙← + HP ~ 豪鬼 Gouki (Akuma)
+========================================================================
+豪鬼 Gouki (Akuma)
+普通投
+背負い投げ       →/← + MP/HP
+地獄車       →/← + MK/HK
+イズナ落とし       空中近身 →/← + MP/HP
+特殊技
+頭蓋破殺       → + MP
+旋風脚       → + MK
+空中 ↑ 方向 + HK
+前蹴り       空中 ↑ 方向 + MK
+天魔空刃脚       空中 ↓↘→ + K
+Juggles       蹲 HP
+必杀技
+豪波動拳       ↓↘→ + P
+斬空波動拳       空中 ↓↘→ + P
+豪昇竜拳       →↓↘ + P
+竜巻斬空脚       ↓↙← + K (空中可)
+阿修羅閃空       →↓↘ / ←↓↙ + PPP/KKK
+无限必杀技
+滅殺豪波動       ↓↙← + PP, P/K 连打
+天魔豪斬空       空中 ↓↘→ + PP
+滅殺豪昇龍       ↓↘→ + PP
+瞬獄殺       Lv.3 LP, LP, →, LK, HP
+Change Mode: Ryu       →↘↓↙← + LP ~ 隆 Ryu
+Change Mode: Ken       →↘↓↙← + HP ~ 肯 Ken Masters
+========================================================================
+春丽Chun-Li, 春麗
+
+普通投
+虎襲倒       近身 →/← + MP/HP
+龍星落       空中近身 →/← + MP/HP
+特殊技
+三角跳び       空中画面端 → 方向
+3段 Jump       ↑ 方向, 最大3回
+前方空中 Dash       空中 →→; 或 PPP
+零式気功拳       → + HP
+鶴脚落       ↘ + HK
+鷹爪脚       空中 ↓ + MK
+Juggles       HK
+必杀技
+気功拳       ←↙↓↘→ + P
+百裂脚       K 连打 (空中可)
+旋円蹴       →↘↓↙← + K
+天昇脚       →↓↘ + K
+无限必杀技
+気功掌       ↓↘→ + PP, P/K 连打
+千裂脚       ↓↘→ + KK, P/K 连打
+覇山天昇脚       →↓↘ + KK
+七星閃空脚       空中 ↓↘→ + KK
+========================================================================
+桑吉尔夫Zangief, Зангиев
+
+普通投
+上投げ       近身 →/← + MP//浮空技
+Back Drop       近身 →/← + HP
+前冲 抓住对手 MP/HP
+噛みつき       近身 →/← + MK/HK, P/K 连打
+前冲 抓住对手 MK/HK, P/K 连打
+Stomach Claw       近身 ↘ + MP/HP
+空中投げ       空中近身 →/← + MP/HP
+特殊技
+Elbow Drop       → + MP
+Headbutt       空中 ↑ + MP
+Elbow Drop       空中 ↓ + MP
+Body Press       空中 ↓ + HP
+Jumping Lariat       空中 → + HP
+Knee Drop       空中 ↓ + MK
+Juggles       蹲 MP
+必杀技
+Double Lariat       PPP (空中可)//可前后
+Quick Double Lariat       KKK (空中可)//可前后
+Banishing Flat       →↓↘ + P
+Aerial Russian Slam       →↓↘ + K
+Screw Piledriver       近身 方向1周 + P (空中可)
+Atomic Suplex       近身 ←↙↓↘→ + K
+Flying Power Bomb       投距离外 ←↙↓↘→ + K
+无限必杀技
+Final Atomic Buster       方向1周 + PP
+Final Atomic Buster       Lv.3 近身 方向1周 + KK
+Iron Body       ←↓↙ + LK ~ 刚体状态
+刚体状态
+上投げ       近身 →/← + MP//浮空技
+Back Drop       近身 →/← + HP
+前冲 抓住对手 MP/HP
+噛みつき       近身 →/← + MK/HK, P/K 连打
+前冲 抓住对手 MK/HK, P/K 连打
+Stomach Claw       近身 ↘ + MP/HP
+空中投げ       空中近身 →/← + MP/HP
+特殊技
+Elbow Drop       → + MP
+Headbutt       空中 ↑ + MP
+Elbow Drop       空中 ↓ + MP
+Body Press       空中 ↓ + HP
+Jumping Lariat       空中 → + HP
+Knee Drop       空中 ↓ + MK
+Juggles       蹲 MP
+必杀技
+Double Lariat       PPP (空中可)//可前后
+Quick Double Lariat       KKK (空中可)//可前后
+Vodka Fire       ↓↘→ + P
+Aerial Russian Slam       →↓↘ + K
+Screw Piledriver       近身 方向1周 + P (空中可)
+Atomic Suplex       近身 ←↙↓↘→ + K
+Flying Power Bomb       投距离外 ←↙↓↘→ + K
+无限必杀技
+Final Atomic Buster       方向1周 + PP
+Siberian Blizzard       方向1周 + KK
+Iron Body Cancel       ←↓↙ + LK ~ 普通状态
+========================================================================
+莫莉卡Morrigan Aensland
+
+普通投
+Moon Tracer       近身 →/← + MP/HP
+Breast Anguish       近身 →/← + MK/HK
+Sexual Embrace       空中近身 →/← + MP/HP
+特殊技
+空中 Dash       空中 →→; 或 ↓/↑/n + PPP
+Mysterious Arc       ↘ + HP
+Necro Desire       → + HK
+Shell Kick       空中 ↓ + MK
+Shell Pierce       空中 ↓ + HK
+Juggles       蹲 HP
+必杀技
+Soul Fist       ↓↘→ + P (空中可)
+Shadow Blade       →↓↘ + P (空中可)
+Vector Drain       近身 →↘↓↙← + P
+无限必杀技
+Soul Eraser       ↓↘→ + PP, P/K 连打
+Silhouette Blade       →↓↘ + PP
+Darkness Illusion       ↓↘→ + KK (空中可)
+Eternal Slumber       Lv.3 LP, MK, ←, MP, HK
+========================================================================
+突击队长Captain Commando
+
+普通投
+-       近身 →/← + MP/HP
+-       近身 →/← + MK/HK
+-       空中近身 →/← + MP/HP
+特殊技
+Juggles       HK / 蹲 MP
+必杀技
+Captain Fire       ↓↘→ + P (空中可)
+Captain Corridor       ↓↙← + P
+Captain Kick       ↓↙← + K
+Commando Strike: Sho       ↓↘→ + LK
+Commando Strike: Genity       ↓↘→ + MK
+Commando Strike: Hoover       ↓↘→ + HK
+无限必杀技
+Captain Sword       ↓↘→ + PP
+Hyper Captain Storm       ↓↘→ + KK
+========================================================================
+洛克人Rockman, 日版以外: Megaman
+
+普通投
+-       近身 →/← + MP/HP
+-       空中近身 →/← + MP/HP
+特殊技
+Wall Jump       空中画面端 → 方向
+Sliding       ↓ + HK
+Juggles       HK
+必杀技
+Rock Buster / Mega Buster       HP (空中可, 蹲可), 可蓄
+Rock Upper / Mega Upper       →↓↘ + P
+Item 出現: Rock Ball       ↓↙← + LK
+Item 出現: Tornado Hold       ↓↙← + MK
+Item 出現: Leaf Shield       ↓↙← + HK
+Item 攻撃       ↓↘→ + P (叶子时空中可)
+无限必杀技
+Hyper Rockman / Hyper Megaman       ↓↘→ + PP (空中可)
+Rush Drill       ↓↘→ + KK, P/K 连打//可移动
+Beat Plane       ↓↙← + KK (空中可), P/K 连打//可移动
+Magnetic Shockwave       [PS] ↓↙← + PP//洛克人通关后按住 SELECT 选择
+========================================================================
+出击飞龙Strider Hiryu, 飛竜
+
+普通投
+-       近身 →/← + MP/HP
+-       近身 →/← + MK/HK
+-       空中近身 →/← + MP/HP
+特殊技
+Wall Jump       空中画面端 → 方向
+2段 Jump       跳跃中 ↑ 方向
+Sliding Kick       ↘ + HK
+Juggles       蹲 HP
+必杀技
+Ame no Murakumo       ↓↘→ + P
+Excalibur       空中 ↓↘→ + P/K
+Gram (上段)       →↓↘ + P (空中可)
+Gram (下段)       →↓↘ + K
+Warp       ←↓↙ + P/K
+Vajra       ↓↙← + K
+Formation A       ↓↘→ + K
+Formation B       ← 蓄 → + P
+┗ Fire       ┗ ← 蓄 → + P (空中可)
+Formation C       ← 蓄 → + K
+壁張り付き       ↓↙← + P
+┣ 着地       ┣ →
+┣ 上移動       ┣ ↑
+┣ 下移動       ┣ ↓
+┣ 反対側の壁に移動       ┣ ←→
+┣ Cipher 攻撃       ┣ P
+┣ 飛び蹴り       ┣ K
+┗ Sliding Heel       ┗ ↓ + K
+无限必杀技
+Ouroboros       ↓↘→ + PP
+Ragnarok       →↓↘ + PP
+Legion       ↓↘→ + KK
+========================================================================
+早乙女忍Jin Saotome
+
+普通投
+-       近身 →/← + MP/HP (空中可)
+-       近身 →/← + MK/HK
+特殊技
+Sliding Cyclone       ↓ + HK
+Diving Cyclone       空中 ↓ + HK
+Juggles       MP
+必杀技
+Saotome Typhoon       ← 蓄 → + P
+Saotome Dynamite       ↓ 蓄 ↑ + P
+Saotome Crush       →↘↓↙← + P
+Saotome Fire       挑衅中 P/K 连打
+无限必杀技
+Blodia Punch       ↓↘→ + PP
+Blodia Vulcan       ↓↙← + PP
+Saotome Cyclone       ↓↘→ + KK
+========================================================================
+屠杀Carnage
+
+普通投
+-       近身 →/← + MP/HP
+-       近身 →/← + MK/HK
+-       空中近身 →/← + MP/HP
+特殊技
+空中 Dash       空中 →→; 或 PPP
+Juggles       HP
+必杀技
+Venom Crush       ↓↘→ + P, P 连打
+Venom Charge       空中 ↓↘→ + P
+Web Throw       →↘↓↙← + P, ←→ + P/K 连打
+Venom Storm       ↓↘→ + K, K 连打
+无限必杀技
+Venom Web       ↓↘→ + PP
+Death Bite       ↓↘→ + KK
+========================================================================
+莉莉丝风莫莉卡Lilith-Style Morrigan
+
+普通投
+Moon Tracer       近身 →/← + MP/HP
+Breast Anguish       近身 →/← + MK/HK
+Sexual Embrace       空中近身 →/← + MP/HP
+特殊技
+空中 Dash       空中 →→; 或 ↓/↑/n + PPP
+Mysterious Arc       ↘ + HP
+Necro Desire       → + HK
+Shell Kick       空中 ↓ + MK
+Shell Pierce       空中 ↓ + HK
+Juggles       蹲 HP
+必杀技
+Soul Fist       ↓↘→ + P (空中可)
+Shadow Blade       →↓↘ + P (空中可)
+Vector Drain       近身 →↘↓↙← + P
+无限必杀技
+Brilliant Shower       ↓↘→ + PP
+Splendor Love       →↓↘ + PP
+Luminours Illusion       ↓↘→ + KK (空中可)
+========================================================================
+萝露Roll
+
+普通投
+-       近身 →/← + MP/HP (空中可)
+特殊技
+Sliding       ↓ + HK
+Swipe Kick       空中 ↑ + HK
+Juggles       HK
+必杀技
+Roll Buster       ↓↘→ + P (空中可)
+Exploding Flower       ↓↙← + P (空中可)
+Item 出現: Rock Ball       ↓↙← + LK
+Item 出現: Tornado Hold       ↓↙← + MK
+Item 出現: Leaf Shield       ↓↙← + HK
+Item 攻撃       ↓↘→ + K (叶子时空中可)
+无限必杀技
+Hyper Roll       ↓↘→ + PP (空中可)
+Rush Drill       ↓↘→ + KK, P/K 连打//可移动
+Beat Plane       ↓↙← + KK (空中可), P/K 连打//可移动
+========================================================================
+影子春丽Shadow Lady
+
+普通投
+虎襲倒       近身 →/← + MP/HP
+龍星落       空中近身 →/← + MP/HP
+特殊技
+三角跳び       空中画面端 → 方向
+3段 Jump       ↑ 方向, 最大3回
+前方空中 Dash       空中 →→; 或 PPP
+鶴脚落       ↘ + HK
+鷹爪脚       空中 ↓ + MK
+Juggles       HK
+必杀技
+Miracle Drill       ↓↘→ + P (空中可)
+Plasma Barrier       →↓↘ + P, P 连打
+Infinity Leg       K 连打 (空中可)
+Rainbow Missile       ↓↘→ + K
+Sky Counter Crash       →↘↓↙← + K
+无限必杀技
+Big Bang Laser       ↓↘→ + PP, P/K 连打
+Galaxy Missile       ↓↘→ + KK
+Final Mission       Lv.3 ← 蓄 →←→ + KK
+========================================================================
+狂杀Onslaught
+特殊技
+Sentinel Force       P/K
+Sentinel Assist       MP+MK
+必杀技
+Magnetic Tempest       ↓↘→ + P
+Hyper Gravitation       →↓↘ + P
+Onslaught Torpedo       ↓↘→ + K
+Teleport       ↓↙← + K
+无限必杀技
+Mega Mind Blast       ↓↘→ + PP
+Magnetic Shockwave       ←↙↓↘→ + KK
+Partner Change       Lv.2 ↓↘→ + KK
+第二形态
+特殊技
+Claw Crush       P
+Sentinel 空爆       K
+必杀技
+Mind Blast       ↓↘→ + P
+Hyper Gravitation       →↓↘ + P
+Rushing Arm       ←↙↓↘→ + K
+无限必杀技
+3連射 Mind Blast       ↓↘→ + PP
+5連射 Mind Blast       Lv.2 ←↙↓↘→ + PP
+系统
+挑衅：START
+疾进/疾退：→→ / ←←; 或 n/← + PPP
+高跳：地面时 ↓↑; 或 KKK
+空中防御：空中 ← 方向
+投受身：被投时 →/← + MP/HP/MK/HK
+受身：被打飞倒地前 ←↙↓ + P/K
+========================================================================
+高级防御：防御时 PPP (空中可)
+援助（Special Assist）
+MP+MK，可用次数依援助角色而定。
+
+交换攻击（Variable Attack）
+HP+HK，换下的角色体力红色部分会逐渐回复。
+
+交换反击（Variable Counter）
+防御时 ←↙↓ + HP+HK，消耗一条能量。
+
+连锁技 （Chain Combo）
+大致按 LP~LK~MP~MK~HP~HK 顺序连续输入通常技。
+
+EASY MODE 可连打任意键来发动，连续输入中或重攻击能自动取消出必杀技。
+
+浮空技 （Juggles）
+击中对手使其浮空，可立即输入 ↑ 方向或 KKK 跳起追打。
+
+EASY MODE 可用 LP+LK 发动浮空技，并且击中对手会自动跳起。
+
+无限必杀技（Infinity Combo）
+至少消耗一条能量发动超必杀技。
+
+EASY MODE 可用 MP+LP/HP 或 MK+LK/HK 发动。
+
+交叉攻击（Variable Cross）
+能量至少2条时 ↓↙← + HP+HK 发动交叉攻击，能量槽会变为时间槽，期间可自由使用超必杀技。
+
+合体超必杀技（Variable Combination）
+能量至少2条时 ↓↘→ + HP+HK，消耗2条能量发动合体超必杀技。
+========================================================================
+隐藏要素
+选择屠杀
+屠杀 Carnage，或红色毒液 Red Venom，或高速毒液 High Speed Venom。
+
+选择角色时春丽 Chun-Li 处，输入：
+
+→↓↓↓↓←↑↑↑↑→→↓↓←←↓↓→→↑↑↑↑←←↑，最后再选定即可。
+
+简单说，就是在选人界面画“12”。
+
+选择橙浩克
+橙浩克，Orange Hulk，或 Incredible Hulk，或 MSH 风格浩克。
+
+选择角色时春丽 Chun-Li 处，输入：
+
+→→↓↓←←, →→↓↓←←, ↑↑↑↑↓↓→→↑↑, ↓↓↓↓↑↑↑↑←↑，最后再选定即可。
+
+简单说，就是在选人界面画“34”。
+
+橙浩克和普通浩克技能一样，但没有刚体，攻击速度更快，空中连击更容易。
+
+选择金色战争机器
+金色战争机器，Gold War Machine，或 Hyper Armor War Machine。
+
+选择角色时桑吉尔夫 Zangief 处，输入：
+
+←←↓↓→→↓↓←←↑↑↑↑→→←←↓↓↓↓→→↑↑←←↓↓→→↑↑↑↑↑，最后再选定即可。
+
+简单说，就是在选人界面画“56”。
+
+金色战争机器和普通战争机器技能基本一样，并且拥有刚体，所有的激光攻击都改为导弹攻击。
+
+此外金色战争机器不能执行「Repulsor Blast」、飞行和空中前冲。
+
+选择影子春丽 Shadow Lady
+选择角色时莫莉卡 Morrigan 处，输入：
+
+↑→→↓↓↓↓←←↑↑↑↑→→←←↓↓→→↓↓←←↑↑→→↑↑←←↓↓↓↓↓，最后再选定即可。
+
+简单说，就是在选人界面画“78”。
+
+选择莉莉丝风格的莫莉卡 Lilith-Style Morrigan
+选择角色时桑吉尔夫 Zangief 处，输入：
+
+←←↓↓→→↑↑↓↓↓↓←←↑↑↑↑→←↓↓↓↓→→↑↑↑↑←←↓↓↓↓→↓，最后再选定即可。
+
+简单说，就是在选人界面画“90”。
+
+选择萝露 Roll
+选择角色时桑吉尔夫 Zangief 处，输入：
+
+←←↓↓→→↓↓←←↑→↑↑→→，最后再选定即可。
+========================================================================
+隐藏角色乱入
+特定隐藏角色有可能会在第7战时乱入，先满足以下条件：
+
+没有因体力为0战败过；
+没有续关；
+没有和玩家对战；
+再根据使用超杀（无限必杀技、交叉攻击、协力超杀）取胜的情况决定乱入的对手：
+
+使用超杀取胜3次（至少3次，以下同），橙浩克乱入；
+使用超杀取胜3次，并且用光了援护2次，莉莉丝风莫莉卡乱入。
+使用超杀取胜5次，其中交叉攻击取胜2次，金色战争机器乱入；
+使用超杀取胜5次，其中交叉攻击2次，并且用光了援护4次，萝露乱入；
+全部使用超杀取胜，其中交叉攻击4次，并且所有战斗都取得先手（First Attack），屠杀乱入；
+全部使用超杀取胜，其中交叉攻击4次，并且所有战斗都取得先手，再加上每场战斗都用光了援护，影子春丽乱入。
+家用机版在街机模式下击败所有乱入的对手并存档，就可使用最终 BOSS 狂杀 Onslaught。
+========================================================================
+指定援护角色
+通常选定角色后会随机决定援护角色，但只要在选定2名主力后输入以下键就能指定援护：
+
+01 超戦士 Unknown Soldier (失落的世界 Forgotten World): LP + START；
+02 Lou (3个奇迹 3 Wonders): MP + START；
+03 Arthur (魔界村 Ghouls n Goblins): LP+MP + START；
+04 想鐘 Saki（虹色町的奇迹 Nigiirochou no Kiseki）: HP + START；
+05 東風 Ton-Pooh（出击飞龙 Strider）: LP+HP + START；
+06 Devilot（机甲战士 Cyberbots）: MP+HP + START；
+07 Anita（恶魔战士 Darkstalkers）: PPP + START；
+08 Pure & Fur（Capcom Mascot）: LK + START；
+09 Michelle Hart（ Wings of Ales）: LP+LK + START；
+10 雷神索尔 Thor: MP+LK + START；
+11 镭射眼 Cyclops: LP+MP+LK + START；
+12 万磁王 Magneto: HP+LK + START；
+13 暴风女 Storm: LP+HP+LK + START；
+14 李千欢 Jubilee: MP+HP+LK + START；
+15 小淘气 Rogue: PPP + LK + START；
+16 灵蝶 Psylocke: MK + START；
+17 红坦克 Juggernaut: LP+MK + START；
+18 冰人 Iceman: MP+MK + START；
+19 钢力士 Colossus: LP+MP+MK + START；
+20 美国代理人 U.S. Agent: HP+MK + START；
+21 隐藏援护 影子纳什 Shadow: LP+HP+MK + START；
+22 隐藏援护 哨兵机器人 Sentinel: MP+HP+HK + START
+此外，击败对手后，摆出胜利姿势时长按 KKK，可将对手的援护设置为自己的。
+========================================================================
+更改先发
+战斗开始前的 VS 画面，按住 PPP 不放直到对决开始，后选择的角色就会先发出场。

@@ -1,0 +1,401 @@
+CAPCOM于2004年发布，纪念《街霸2》诞生15周年。这个版本将《街霸2》系列5个版本（《街霸2》、《街霸2四大天王》、《街霸2加速版》、《超级街霸2》、《超级街霸2增强版》）全部集合在一起。当玩家进入游戏后，选择好游戏速度后，就可以选择版本了，选择好版本后玩家只能选择此版本的角色（比如选择了《街霸2》的版本，玩家只能选择8人）。游戏完全还原了各个版本的特色，包括人物头像、必杀技、攻击判定、甚至是人物的语音和音效（那让人熟悉的重拳的音效又回来了），一个角色因为选择版本的不同都有很大的区别。由于各个版本的系统和平衡各不相同，所以对战起来的感觉非常有趣。建议玩这个游戏一定要双打对战，因为单打的话，无论玩家选择什么版本的人物，所面对的对手永远是《超级街霸2增强版》版本的人物，体会不到这款游戏中不同版本的人物大乱斗的乐趣.....（拆车等奖励关没有加入，遗憾）《街霸2》系列全作的特色和要素全在这一款游戏里得到体现。强烈推荐！
+
+LP：轻拳；MP：中拳；HP：重拳
+
+LK：轻脚；MK：中脚；HK：重脚
+
+//P 表示任意一个拳，PPP 表示同时按下3个拳。
+
+//K 表示任意一个脚，KKK 表示同时按下3个脚。
+
+选择版本：选择角色前还需选定版本，不同版本角色的系统和指令也有区别。
+SUPER：NORMAL，对应《街头霸王 II》；
+D：DASH 或 CHAMP，《街头霸王 II'》；
+T：TURBO，《街头霸王 II' Turbo》；
+S：SUPER，《超级街头霸王 II》；
+X：SUPERX 或 SUPERT，《超级街头霸王 IIX》。
+受身：被投出前 →/← + MP/HP/MK/HK
+超级连续技（Super Combo）
+攻击到对手或使用必杀技能积累一定能量。
+
+能量槽蓄满时会高亮显示 SUPER，可消耗全部能量使用超级连续技。
+
+能量不会被保留到下一局，每局都需从0开始积蓄。
+
+//受身和超级连续技只限 X 版角色使用。
+=====================================================================
+隆Ryu
+
+普通投
+背負い投げ       近身 →/← + MP/HP       N       D       T       S       X
+巴投げ       近身 →/← + MK/HK       N       D       T       S       X
+特殊技
+鎖骨割り       → + MP       -       -       -       -       X
+鳩尾砕き       → + HP       -       -       -       -       X
+必杀技
+波動拳       ↓↘→ + P       N       D       T       S       X
+Fire 波動拳       ←↙↓↘→ + P       -       -       -       S       X
+昇竜拳       →↓↘ + P       N       D       T       S       X
+竜巻旋風脚       ↓↙← + K       N       D       T       S       X
+空中竜巻旋風脚       空中 ↓↙← + K       -       -       T       S       X
+超级连续技
+真空波動拳       ↓↘→↓↘→ + P       -       -       -       -       X
+=====================================================================
+肯Ken Masters
+
+普通投
+背負い投げ       近身 →/← + MP/HP       N       D       T       S       X
+地獄車       近身 →/← + MK/HK       N       D       T       S       -
+近身 →/← + HK       -       -       -       -       X
+つかみ膝蹴り       近身 →/← + MK//可连打       -       -       -       -       X
+地獄風車       空中近身 ↑ + MK/HK       -       -       -       -       X
+必杀技
+波動拳       ↓↘→ + P       N       D       T       S       X
+昇竜拳       →↓↘ + P       N       D       T       S       X
+竜巻旋風脚       ↓↙← + K       N       D       T       S       X
+空中竜巻旋風脚       空中 ↓↙← + K       -       -       T       S       X
+鎌払い蹴り ①       ↓↘→ + K       -       -       -       -       X
+鉈落とし蹴り ①       →↘↓ + K       -       -       -       -       X
+大外回し蹴り ①       ←↙↓↘→ + K       -       -       -       -       X
+稲妻かかと落とし       ① 中 K 蓄       -       -       -       -       X
+超级连续技
+昇竜裂破       ↓↘→↓↘ + P       -       -       -       -       X
+=====================================================================
+本田E. Honda
+
+普通投
+俵投げ       近身 →/← + MP       N       D       T       S       X
+さば折り       近身 →/← + HP//可连打       N       D       T       S       X
+折檻蹴り       近身 →/← + HK//可连打       N       D       T       S       X
+特殊技
+膝蹴り       近 →/← + MK       N       D       T       S       X
+払い蹴り       →/← + HK       -       -       -       -       X
+Flying Sumo Press       斜跳 ↓ + MK       -       -       -       S       X
+-       直跳 HP//空中制御       -       -       -       -       X
+必杀技
+百裂張り手       P 连打       N       -       -       -       X
+P 连打//可前后       -       D       T       S       -
+Super 頭突き       ← 蓄 → + P       -       -       -       S       X
+Super 百貫落とし       ↓ 蓄 ↑ + K       -       -       T       S       X
+大銀杏投げ       近身 →↘↓↙ + P       -       -       -       -       X
+超级连续技
+鬼無双       ← 蓄 →←→ + P       -       -       -       -       X
+空中制御
+可以在空中通过 →/← 控制下落时的左右。
+
+大銀杏投げ
+输入 →↘↓↙ 后，可以按住 ←/↖/↙，然后适机按 P 发动。这段时间里只要按住 ← 方向不松开，还可以使用与「大銀杏投げ」指令不冲突的其它动作，例如防御或 K 攻击等。
+
+鬼無双
+与「大銀杏投げ」的情况相似，输入 ← 蓄 →←→ 后可以顺势按住 →/↗/↘ 选择出招时机，再按 P 出招。
+
+=====================================================================
+春丽Chun-Li, 春麗
+
+普通投
+虎襲倒       近身 →/← + MP/HP       N       D       T       S       X
+龍星落       空中近身 ↑ 以外 + MP/HP       N       D       T       S       X
+特殊技
+三角跳び       空中画面端 → 方向       N       D       T       S       X
+鷹爪脚       空中 ↓ + MK       N       D       T       S       X
+後方回転脚       近 →/← + MK       N       D       T       S       -
+↘ + MK       -       -       -       -       X
+鶴脚落       近 →/← + HK       N       D       T       S       -
+↘ + HK       -       -       -       -       X
+必杀技
+気功拳       ←↙↓↘→ + P       -       -       T       -       -
+← 蓄 → + P       -       -       -       S       X
+百裂脚       K 连打       N       D       T       S       X
+Spinning Bird Kick       ↓ 蓄 ↑ + K       N       D       T       S       -
+← 蓄 → + K       -       -       -       -       X
+空中 Spinning Bird Kick       空中 ↓ 蓄 ↑ + K       -       -       T       S       -
+空中 ← 蓄 → + K       -       -       -       -       X
+天昇脚       ↓ 蓄 ↑ + K       -       -       -       -       X
+超级连续技
+千裂脚       ← 蓄 →←→ + K       -       -       -       -       X
+千裂脚
+输入 ← 蓄 →←→ 后可以顺势按住 → 方向选择出招时机，再按 K 出招。
+
+=====================================================================
+布兰卡Blanka
+
+普通投
+Wild Fang       近身 →/← + HP//可连打       N       D       T       S       X
+特殊技
+Rock Crusher       近 →/← + MP       N       D       T       S       X
+Amazon River Run       ↘ + HP       -       -       -       -       X
+Surprise Forward       → + KKK       -       -       -       -       X
+Surprise Back       ← + KKK       -       -       -       -       X
+必杀技
+Electric Thunder       P 连打       N       D       T       S       X
+Rolling Attack       ← 蓄 → + P       N       D       T       S       X
+Backstep Rolling       ← 蓄 → + K       -       -       -       S       X
+Vertical Rolling       ↓ 蓄 ↑ + K       -       -       T       S       X
+超级连续技
+Ground Shave Rolling       ← 蓄 →←→ + P, 可蓄       -       -       -       -       X
+=====================================================================
+桑吉尔夫Zangief, Зангиев
+
+普通投
+Piledriver       近身 →/← + MP       N       D       T       S       X
+Iron Claw       近身稍远 →/← + MP//可连打       N       D       T       -       -
+近身 →/← + HP//可连打       -       -       -       S       X
+Brain Buster       近身 →/← + HP       N       D       T       -       -
+近身 →/← + MK       -       -       -       S       X
+噛みつき       近身稍远 →/← + HP//可连打       N       D       T       -       -
+近身 →/← + HK//可连打       -       -       -       S       X
+Stomach Claw       近身稍远 ↓ 方向 + MP/HP//可连打       N       D       T       -       -
+近身 ↓ 方向 + MP/HP//可连打       -       -       -       S       X
+Deadly Driver       近身 ↓ 方向 + MP       N       D       T       -       -
+Leg Throw       近身 ↓ 方向 + HP       N       D       T       -       -
+German Suplex       近身 →/← + MK       N       D       T       -       -
+Thunder Fire Powerbomb       近身 →/← + HK       N       D       T       -       -
+空中 Deadly Driver       空中近身 ↑ 以外 + MP/HP       -       -       -       S       X
+空中 Leg Throw       空中近身 ↑ 以外 + MK/HK       -       -       -       S       X
+特殊技
+Headbutt       投距离外 →/← + MP/HP       -       -       -       -       X
+空中 Headbutt       直跳 ↑ + MP/HP       N       D       T       S       X
+Flying Body Attack       斜跳 ↓ + HP       N       D       T       S       X
+Flying Knee Drop       斜跳 ↓ + LK       -       -       T       S       X
+必杀技
+Banishing Flat       →↘↓ + P       -       -       -       -       X
+Double Lariat       PPP       N       -       -       -       -
+PPP//可前后       -       D       T       S       X
+Quick Double Lariat       KKK//可前后       -       -       T       S       X
+Screw Piledriver       近身 方向1周 + P       N       D       T       S       X
+Atomic Suplex       近身 方向1周 + K       -       -       -       S       X
+Flying Power Bomb       投距离外 方向1周 + K       -       -       -       S       X
+超级连续技
+Final Atomic Buster       近身 方向2周 + P       -       -       -       -       X
+=====================================================================
+古烈Guile, 盖尔
+
+普通投
+Judo Throw       近身 →/← + MP       N       D       T       S       X
+Dragon Suplex       近身 →/← + HP       N       D       T       S       X
+Flying Mare       空中近身 ↑ 以外 + MP/HP       N       D       T       S       X
+Flying Buster Drop       空中近身 ↑ 以外 + MK/HK       N       D       T       S       X
+特殊技
+Spinning Back Knuckle       → + HP       -       -       -       -       X
+Knee Bazooka       近 →/← + MK       N       -       -       -       -
+→/← + MK       -       D       T       S       -
+→/← + LK       -       -       -       -       X
+Rolling Sobat       →/← + MK       -       -       -       -       X
+Reverse Spin Kick       近 →/← + HK       N       D       T       S       X
+必杀技
+Sonic Boom       ← 蓄 → + P       N       D       T       S       X
+Somersault Kick       ↓ 蓄 ↑ + K       N       D       T       S       X
+超级连续技
+Double Somersault Kick       ↙ 蓄 ↘↙↗ + K       -       -       -       -       X
+=====================================================================
+达尔西姆Dhalsim
+
+普通投
+Yoga Smash       近身 →/← + MP       N       D       T       S       X
+Yoga Throw       近身 →/← + HP       N       D       T       S       X
+特殊技
+Drill 頭突き       跳至顶点 HP       N       -       -       -       -
+空中 ↓ + HP       -       D       T       S       X
+Drill Kick       跳至顶点 HK       N       -       -       -       -
+空中 ↓ + HK       -       D       T       S       -
+空中 ↓ + K       -       -       -       -       X
+普通技变化       ←/↙ + P/K, 除 ← + LK 外       -       -       -       -       X
+普通技变化       → + LK       -       -       -       -       X
+必杀技
+Yoga Fire       ↓↘→ + P       N       D       T       S       X
+Yoga Flame       ←↙↓↘→ + P       N       D       T       S       X
+Yoga Blast       ←↙↓↘→ + K       -       -       -       -       X
+Yoga Teleport       →↓↘ + PPP/KKK//到前方       -       -       T       S       X
+←↓↙ + PPP/KKK//到后方       -       -       T       S       X
+超级连续技
+Yoga Inferno       ←↙↓↘→←↙↓↘→ + P       -       -       -       -       X
+=====================================================================
+猎鹰Thunder Hawk
+
+普通投
+Mexican Throw       近身 →/← + MP       S       X
+Neck Hanging Tree       近身 →/← + HP//可连打       S       X
+Elbow Stomping       近身 →/← + HK//可连打       S       X
+特殊技
+Thrust Beak       →/← + LP       S       X
+Heavy Shoulder       斜跳 ↓ + MP       S       X
+Heavy Body Press       斜跳 ↓ + HP       S       X
+必杀技
+Tomahawk Buster       →↓↘ + P       S       X
+Condor Dive       空中 PPP       S       X
+Mexican Typhoon       近身 方向1周 + P       S       X
+超级连续技
+Double Typhoon       近身 方向2周 + P       -       X
+=====================================================================
+嘉米Cammy
+
+普通投
+Hooligan Suplex       近身 →/← + MP/HP       S       X
+Frankensteiner       近身 →/← + MK/HK       S       X
+Flying Neck Hunt       空中近身 ↑ 以外 + HP       S       -
+空中近身 ↑ 以外 + MP/HP       -       X
+Air Frankensteiner       空中近身 ↑ 以外 + HK       S       -
+空中近身 ↑ 以外 + MK/HK       -       X
+必杀技
+Axle Spin Knuckle       ←↙→ + P       S       X
+Hooligan Combination       ↙↓↘→↗ + P       -       X
+┣ Razor Edge Slicer       ┣ 什么也不输入       -       X
+┣ Fatal Leg Twister       ┣ 对手在地面, 近头部 →/← + K       -       X
+┣ Cross Scissor Pressure       ┣ 近头部以下 →/← + K       -       X
+┗ Cancel       ┗ 上升中 K       -       X
+Spiral Arrow       ↓↘→ + K       S       X
+Cannon Spike       →↓↘ + K       S       X
+超级连续技
+Spin Drive Smasher       ↓↘→↓↘ + K       -       X
+=====================================================================
+飞龙Fei Long, 飛龍
+
+普通投
+岩塊抱       近身 →/← + MP/HP       S       X
+襲首刈       近身 →/← + MK/HK       S       X
+襲首落       空中近身 ↑ 以外 + MP/HP       -       X
+特殊技
+直下落踵       →/← + MK       S       X
+遠撃蹴       → + HK       S       X
+必杀技
+烈火拳       ↓↘→ + P, 连续3回       S       X
+熾炎脚       ←↓↙ + K       S       X
+烈空脚       ←↙↓↘→↗ + K       -       X
+超级连续技
+烈火真拳       ↓↘→↓↘→ + P       -       X
+=====================================================================
+迪杰Dee Jay
+
+普通投
+Funky Shout Throw       近身 →/← + MP/HP       S       X
+Monkey Flip       近身 →/← + MK/HK       S       X
+特殊技
+Knee Shot       斜跳 ↓ + LK       S       X
+必杀技
+Air Slasher       ← 蓄 → + P       S       X
+Machine Gun Upper       ↓ 蓄 ↑ + P, 可连打       S       X
+Double Rolling Sobat       ← 蓄 → + K       S       X
+Jackknife Maximum       ↓ 蓄 ↑ + K       -       X
+超级连续技
+Sobat Carnival       ← 蓄 →←→ + K       -       X
+=====================================================================
+拜森M. Bison, 日版以外: Balrog
+
+普通投
+Head Bomber       近身 →/← + MP/HP//可连打       D       T       S       X
+特殊技
+-       直跳 HP//空中制御       -       -       -       X
+必杀技
+Turn Punch       PPP/KKK 蓄       D       T       S       X
+Dash Straight       ← 蓄 → + P       D       T       S       X
+Dash Upper       ← 蓄 → + K       D       T       S       X
+Dash Ground Straight       ← 蓄 ↘ + P       -       -       -       X
+Dash Ground Upper       ← 蓄 ↘ + K       -       -       -       X
+Buffalo Headbutt       ↓ 蓄 ↑ + P       -       -       S       X
+超级连续技
+Crazy Buffalo       ← 蓄 →←→ + P/K//动作中K变化       -       -       -       X
+Crazy Buffalo
+← 蓄 →←→ + P/K，用 P 发动为直拳，K 为勾拳。后续的4下直拳，除最后一击外每一击都可以按 K 变为勾拳。
+
+例如 ← 蓄 →←→ + K 打出一发勾拳，然后长按 K 再打出3下勾拳和一下直拳。
+
+=====================================================================
+巴洛克Balrog, 日版以外: Vega
+
+普通投
+Rainbow Suplex       近身 →/← + MP/HP       D       T       S       X
+Stardust Drop       空中近身 ↑ 以外 + MP/HP       D       T       S       X
+特殊技
+Wall Jump       空中画面端 → 方向       D       T       S       X
+Back Slash       ←←       D       -       -       -
+PPP       -       T       S       X
+Short Back Slash       KKK       -       -       S       X
+必杀技
+Rolling Crystal Flash       ← 蓄 → + P       D       T       S       X
+Sky High Claw       ↓ 蓄 ↑ + P, P       -       -       S       X
+Flying Barcelona       ↓ 蓄 ↑ + K//空中制御       D       T       S       X
+┣ Izuna Drop       ┣ 下落中近身 任意方向 + P       D       T       S       X
+┗ Flying Barcelona Attack       ┗ 下落中 P       D       T       S       X
+Scarlet Terror       ↙ 蓄 → + K       -       -       -       X
+超级连续技
+Rolling Izuna Drop       ↙ 蓄 ↘↙↗ + K, 下落中近身 任意方向 + P//空中制御       -       -       -       X
+Sky High Claw
+↓ 蓄 ↑ + P 飞向最近的版边，↓ 蓄 ↖ +P 和 ↓ 蓄 ↗ +P 分别飞向后方和前方的版边。
+
+发动后再次按 P，攻击动作会变化。
+
+Flying Barcelona
+↓ 蓄 ↑ + K 会飞向较近的版边，↓ 蓄 ↖ +K 和 ↓ 蓄 ↗ +K 分别飞向后方和前方的版边。
+
+在主场西班牙使用「Flying Barcelona」，会变为「Bloody Garden」。
+
+Rolling Izuna Drop
+↙ 蓄 ↘↙↑ + K 飞向较近的版边，↙ 蓄 ↘↙↖ +K 和 ↙ 蓄 ↘↙↗ +K 分别选择后方或前方的版边。
+
+↙ 蓄 ↘↙↗ +K 以及追加 P 攻击都不会扣除能量，只有飞过去抓住对手时才会。
+
+=====================================================================
+沙加特Sagat
+
+普通投
+Tiger Carry       近身 →/← + MP/HP       D       T       S       X
+必杀技
+Tiger Shot       ↓↘→ + P       D       T       S       X
+Ground Tiger Shot       ↓↘→ + K       D       T       S       X
+Tiger Uppercut       →↓↘ + P       D       T       S       X
+Tiger Knee Crush       ↓↘→↗ + K       D       T       S       X
+超级连续技
+Tiger Genocide       ↓↘→↓↘ + P       -       -       -       X
+=====================================================================
+维嘉Vega, 日版以外: M. Bison
+
+普通投
+Deadly Throw       近身 →/← + MP/HP       D       T       S       X
+必杀技
+Psycho Crusher       ← 蓄 → + P       D       T       S       X
+Devil Reverse       ↓ 蓄 ↑ + P       -       -       S       -
+Devil Reverse       ↓ 蓄 ↑ + P, P//空中制御       -       -       -       X
+Double Knee Press       ← 蓄 → + K       D       T       S       X
+Head Press       ↓ 蓄 ↑ + K//空中制御       D       T       S       X
+┗ Somersault Skull Diver       ┗ 攻击后 P//空中制御       D       T       S       X
+超级连续技
+Knee Press Nightmare       ← 蓄 →←→ + K       -       -       -       X
+=====================================================================
+豪鬼Gouki, 日版以外: Akuma
+
+普通投
+背負い投げ       近身 →/← + MP/HP
+巴投げ       近身 →/← + MK/HK
+必杀技
+豪波動拳       ↓↘→ + P
+斬空豪波動拳       空中 ↓↘→ + P
+灼熱波動拳       ←↙↓↘→ + P
+豪昇竜拳       →↓↘ + P
+竜巻斬空脚       ↓↙← + K (空中可)
+阿修羅閃空       →↓↘ + PPP/KKK//到前方
+←↓↙ + PPP/KKK//到后方
+=====================================================================
+隐藏要素
+通关奖励
+在没有输掉任何1局的情况下通关游戏，在结局画面之后，会追加对战的演示。
+
+在1局也没有输且没有续关的情况下通关游戏，会追加所有角色的结局画面和16人合照。
+
+=====================================================================
+选择隐藏配色
+选择 SUPERX（即 SUPERT） 的版本，在选择角色时，P、K 和 START 7个键分别对应角色的7种基本色，但如果按住任意一个 P 或 K 键不放，就能选到隐藏的第8种颜色。
+
+豪鬼 Gouki 乱入
+达成以下任何一个条件，在最终舞台豪鬼就会干掉维嘉 Vega（将军）而成为最终 BOSS：
+
+没有续关，到达最终舞台的时间在1500秒之内；
+没有续关，到达最终舞台时分数超过120万；
+对玩家战连胜12场或以上，然后在角色摆出胜利姿势的计分画面按住任意一个 P 或 K 键2秒以上。
+选择豪鬼 Gouki
+选择 SUPERX 的版本，在选择角色时，将光标在 隆 Ryu（或肯 Ken）、猎鹰 T. Hawk、古烈 Guile、嘉米 Cammy、隆 Ryu（或肯 Ken） 的头像上依次停留1秒以上，再在任意角色头像处按 START，并在按下 START 之后的0.3秒内同时按下3个 P 键，成功的话便可选到豪鬼。
+
+选择 X 版本的 S 版角色
+选择版本时，在 SUPER 处按住 START 再确定，就可选出 SUPERX 版的 SUPER 版角色，即前作《超级街头霸王2X》中需要用秘技唤出的经典版角色。
+
+与直接选择 S 版本的角色相比，此方法选择的 S 版角色的图标会显示 SUPER IIX。
+

@@ -1,0 +1,197 @@
+《超级街头霸王2：增强版》是CAPCOM公司于1994年3月出品超级街头霸王二代加强版格斗游戏。大幅度提高画面素质和增强操作感外，还在街霸系列中首次加入了气槽和超必杀系统，游戏速度也是系列中最快的。最终BOSS由维加改为豪鬼。人物必杀技也做了相当大的改动，如隆增加了一招“火焰波动拳”，肯的重升龙拳增加火属性等等。而且本作在系列中第一次加入了诸如连击、破招等现代格斗游戏的要素。但是由于制作匆忙，角色之间的平衡性较差。隆Ryu
+
+普通投
+背負い投げ       近身 →/← + MP/HP
+巴投げ       近身 →/← + MK/HK
+必杀技
+波動拳       ↓↘→ + P
+昇竜拳       →↓↘ + P
+竜巻旋風脚       ↓↙← + K (空中可)
+=====================================================
+肯Ken Masters
+
+普通投
+背負い投げ       近身 →/← + MP/HP
+地獄車       近身 →/← + MK/HK
+必杀技
+波動拳       ↓↘→ + P
+昇竜拳       →↓↘ + P
+竜巻旋風脚       ↓↙← + K (空中可)
+=====================================================
+本田E. Honda
+
+普通投
+俵投げ       近身 →/← + MP
+さば折り       近身 →/← + HP//连打方向和P/K
+折檻蹴り       近身 →/← + HK//连打方向和P/K
+特殊技
+膝蹴り       近 →/← + MK
+必杀技
+百裂張り手       P 连打//可前后
+Super 頭突き       ← 蓄 → + P
+Super 百貫落とし       ↓ 蓄 ↑ + K
+=====================================================
+春丽Chun-Li, 春麗
+
+普通投
+虎襲倒       近身 →/← + MP/HP
+龍星落       空中近身 ↑ 以外 + MP/HP
+特殊技
+三角跳び       空中画面端 → 方向
+後方回転脚       近 →/← + MK
+鶴脚落       近 →/← + HK
+鷹爪脚       空中 ↓ + MK
+必杀技
+気功拳       ←↙↓↘→ + P
+百裂脚       K 连打
+Spinning Bird Kick       ↓ 蓄 ↑ + K (空中可)
+=====================================================
+布兰卡Blanka
+
+普通投
+Wild Fang       近身 →/← + HP//连打方向和P/K
+特殊技
+Rock Crusher       近 →/← + MP
+必杀技
+Electric Thunder       P 连打
+Rolling Attack       ← 蓄 → + P
+Vertical Rolling       ↓ 蓄 ↑ + K
+=====================================================
+桑吉尔夫Zangief, Зангиев
+
+普通投
+Piledriver       近身 →/← + MP
+Iron Claw       近身稍远 →/← + MP//连打方向和P/K
+Brain Buster       近身 →/← + HP
+噛みつき       近身稍远 →/← + HP//连打方向和P/K
+Deadly Driver       近身 ↓ 方向 + MP
+Leg Throw       近身 ↓ 方向 + HP
+Stomach Claw       近身稍远 ↓ 方向 + MP/HP//连打方向和P/K
+German Suplex       近身 →/← + MK
+Thunder Fire Powerbomb       近身 →/← + HK
+特殊技
+空中 Headbutt       直跳 ↑ + MP/HP
+Flying Body Attack       斜跳 ↓ + HP
+Flying Knee Drop       斜跳 ↓ + LK
+必杀技
+Double Lariat       PPP//可前后
+High Speed Double Lariat       KKK//可前后
+Screw Piledriver       近身 方向1周 + P
+=====================================================
+古烈Guile, 盖尔
+
+普通投
+Judo Throw       近身 →/← + MP
+Dragon Suplex       近身 →/← + HP
+Flying Mare       空中近身 ↑ 以外 + MP/HP
+Flying Buster Drop       空中近身 ↑ 以外 + MK/HK
+特殊技
+Knee Bazooka       →/← + MK
+Reverse Spin Kick       近 →/← + HK
+必杀技
+Sonic Boom       ← 蓄 → + P
+Somersault Kick       ↓ 蓄 ↑ + K
+=====================================================
+达尔西姆Dhalsim
+
+普通投
+Yoga Smash       近身 →/← + MP//连打方向和P/K
+Yoga Throw       近身 →/← + HP
+特殊技
+Drill 頭突き       空中 ↓ + HP
+Drill Kick       空中 ↓ + HK
+必杀技
+Yoga Fire       ↓↘→ + P
+Yoga Flame       ←↙↓↘→ + P
+Yoga Teleport       →↓↘ + PPP/KKK//传送到前方
+←↓↙ + PPP/KKK//传送到后方
+=====================================================
+拜森M. Bison, 日版以外: Balrog
+
+普通投
+Head Bomber       近身 →/← + MP/HP//连打方向和P/K
+必杀技
+Turn Punch       PPP/KKK 蓄
+Dash Straight       ← 蓄 → + P
+Dash Upper       ← 蓄 → + K
+=====================================================
+巴洛克Balrog, 日版以外: Vega
+
+普通投
+Rainbow Suplex       近身 →/← + MP/HP
+Stardust Drop       空中近身 ↑ 以外 + MP/HP
+特殊技
+Wall Jump       空中画面端 → 方向
+Back Slash       PPP
+必杀技
+Rolling Crystal Flash       ← 蓄 → + P
+Flying Barcelona       ↓ 蓄 ↑ + K//空中制御
+┣ Izuna Drop       ┣ 下落中近身 任意方向 + P
+┗ Flying Barcelona Attack       ┗ 下落中 P
+空中制御
+可以在空中通过 →/← 控制下落时的左右。
+
+Flying Barcelona
+↓ 蓄 ↑ + K 会飞向较近的版边，↓ 蓄 ↖ +K 和 ↓ 蓄 ↗ +K 分别飞向后方和前方的版边。
+
+在主场西班牙使用「Flying Barcelona」，会变为「Bloody Garden」。
+
+=====================================================
+沙加特Sagat
+
+普通投
+Tiger Carry       近身 →/← + MP/HP
+必杀技
+Tiger Shot       ↓↘→ + P
+Ground Tiger Shot       ↓↘→ + K
+Tiger Uppercut       →↓↘ + P
+Tiger Knee Crush       ↓↘→↗ + K
+=====================================================
+维嘉Vega, 日版以外: M. Bison
+
+普通投
+Deadly Throw       近身 →/← + MP/HP
+必杀技
+Psycho Crusher       ← 蓄 → + P
+Double Knee Press       ← 蓄 → + K
+Head Press       ↓ 蓄 ↑ + K//空中制御
+┗ Somersault Skull Diver       ┗ 攻击后 P//空中制御
+=====================================================
+隐藏要素
+通关奖励
+街机版（CPS），在不续关的情况下击败最终 BOSS 通关游戏，在结局画面后会追加对战的演示。
+
+在不续关且1局也没有输的情况下通关游戏，会追加各角色打破铁桶或木箱的演示以及制作人员的名单。
+
+通关奖励 [SFC/SNES]
+SFC 版（即 SNES 版），难度1-3的情况下，通关后只会有简单的 CONGRATULATIONS 画面；
+
+难度4-5，通关可以看到所选角色的结局；
+
+难度6-8，会追加打铁桶或木箱的演示；
+
+难度8，再追加特写画面。不续关且1局也没有输的情况下最后还会有特别的祝贺画面。
+
+只查看角色资料 [SFC/SNES]
+不进入游戏的话会播放角色的资料和战斗演示，如果在角色资料的画面按住 2P 手柄的 L 和 R 不放，就会略过对战演示，从而连续播放资料。
+
+禁止必杀技 [SFC/SNES]
+启动游戏后，在 CAPCOM 标志的画面用 1P 手柄输入：
+
+↓, R, ↑, L, Y, B, X, A
+
+成功的话会有音效提示。进入游戏后无论是 1P 还是 2P 都无法使用必杀技。
+
+如果在对战模式（VS BATTLE）中，双方选好角色在选择角色等级和舞台时，由 2P 手柄输入：
+
+↓, R, ↑, L, Y, B, X, A
+
+成功的话就会进入可自由设定要禁用哪些必杀技的界面。
+
+增加速度选项 [SFC/SNES]
+在 CAPCOM 标志画面后，标题画面出现 TURBO 字样前用 1P 手柄输入：
+
+↓, R, ↑, L, Y, B, X, A
+
+成功的话会有音效提示。标题画面下方的速度选项由原来的5挡增加到11挡。
+
